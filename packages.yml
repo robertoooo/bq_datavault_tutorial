@@ -1,0 +1,3 @@
+packages:
+  - git: "https://github.com/robertoooo/dbtvault.git" # git URL
+    revision: develop_unnested # tag or branch name
